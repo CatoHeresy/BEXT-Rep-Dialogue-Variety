@@ -3,6 +3,8 @@ An expansion for all minor faction dialogue for Battletech Extended Tactics mod 
 
 Vanilla BEXT uses a single Faction Rep dialogue line for all criminal and pirate factions, along with most minor powers. They also all share the same portrait. This made me sad.
 
+! [Example](/Example-Images/Mafia-Before.jpg)
+
 This project grants a full reputation dialogue system for every mission giving faction. Each faction gets a unique rep portrait and unique lines written for that character.
 
 
