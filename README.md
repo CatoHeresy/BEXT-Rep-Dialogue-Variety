@@ -8,28 +8,28 @@ This project grants a full reputation dialogue system for every mission giving f
 
 ## Details
 
-### Pirates
-All BEXT Pirate factions get a unique faction representative with a new portrait.
-All BEXT Pirate factions gets a full dialogue set, unique to each faction rep.
-All BEXT Pirate factions get a new description field.
+### Underworld
+All BEXT Pirate Factions and Criminal Syndicates recieve:
 
+- A unique faction representative with a new portrait.  
+- A full dialogue set, unique to each faction rep. 
+- A revised faction description field with lore from Sarna.
 
-### Criminals
-All BEXT Criminal Syndicates have been given a full dialogue set, unique to each faction.
-All BEXT Criminal Syndicates get a unique faction representative with a new portrait.
-All BEXT Criminal Syndicates get a new description field.
-
-
-### Major Periphery Powers
-Magistracy partial rewrite - Amalia is now sharper and more business-minded.
-Taurian partial rewrite - Elena will now never be your friend. She also gets a new portrait.
-Rasalhague full rewrite - Theodore is no longer a Kurita clone and is now a gruff militarist. He gets a new portrait, courtesy of Vipre.
 
 
 ### Minor Power Factions
-Every Minor Power faction gets a unique faction representative with a new portrait. 
-Every Minor Power faction gets a full dialogue set, unique to each faction rep.
-Most Minor Power factions get a revised description field with lore from Sarna.
+Every Minor Power faction receives: 
+
+- A unique faction representative with a new portrait. 
+- A full dialogue set, unique to each faction rep.
+- A revised faction description field with lore from Sarna.
+
+
+
+### Major Periphery Factions
+Magistracy partial rewrite - Amalia is now sharper and more business-minded.
+Taurian partial rewrite - Elena will now never be your friend. She also gets a new portrait.
+Rasalhague full rewrite - Theodore is no longer a Kurita clone and is now a gruff militarist. He gets a new portrait, courtesy of Vipre.
 
 
 ### Great Houses
@@ -45,20 +45,25 @@ The BEXT Corp Rep will now give you unique dialogue depending on what map region
 The Local Government Representative gets a new portrait and new dialogue outcome lines.
 
 
-### Bonus
+## Bonus
 The Tortuga Dominions logo has been fixed to be actually visible.
+
 A new Gametip lore file with 170+ new entires added to existing BEXT loading screen tips. This is optional. It adds background lore from Sarna for each faction to help players get to know them better, along with some mercenary thoughts of the day.
 
 
 ## Install
-Drag the contents into your Battletech installation. 
-Replaces files in folder: Mods/BT_Extended_Timeline. You may wish to backup that folder first.
+Drag the contents into your Battletech installation.  
+
+Replaces files in folder: Mods/BT_Extended_Timeline. You may wish to backup that folder first.  
+
 If you do not want the expanded GameTips file, do not copy the contents of: Mods/BT_Extended/CE
 
 
 ## Known Issues
-Due to how BEXT Timeline spawns missions, sometimes old dialogue for the Great Houses are used instead.
-faction_newcolonyregion is never called on, it never generates missions.
+Due to how BEXT Timeline spawns missions, sometimes old dialogue for the Great Houses are used instead.  
+
+faction_newcolonyregion is never called on, it never generates missions.  
+
 Lothian League & Marian Hedgemony are currently not implemented in BEXT, despite having faction files for them.
 
 
