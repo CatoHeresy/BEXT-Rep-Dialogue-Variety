@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_PiratesOberonDefault",
+   "internalName" : "PiratesOberonDefault",
+   "firstName" : "Jackal",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Oberon Reavers",
+   "showRank" : true,
+   "gender" : "Female",
+   "factionID" : "PiratesOberon",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_PiratesOberon_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

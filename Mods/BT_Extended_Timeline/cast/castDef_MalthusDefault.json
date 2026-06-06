@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_MalthusDefault",
+   "internalName" : "MalthusDefault",
+   "firstName" : "Frost",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Malthus Syndicate",
+   "showRank" : true,
+   "gender" : "None",
+   "factionID" : "CriminalMalthus",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_Malthus_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_CloakDefault",
+   "internalName" : "CloakDefault",
+   "firstName" : "Seraph",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Cloak Syndicate",
+   "showRank" : true,
+   "gender" : "None",
+   "factionID" : "CriminalCloak",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_Cloak_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

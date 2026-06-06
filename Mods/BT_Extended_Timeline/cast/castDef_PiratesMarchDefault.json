@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_PiratesMarchDefault",
+   "internalName" : "PiratesMarchDefault",
+   "firstName" : "Reaper",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Chaos March Pirates",
+   "showRank" : true,
+   "gender" : "Male",
+   "factionID" : "PiratesMarch",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_PiratesMarch_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}
