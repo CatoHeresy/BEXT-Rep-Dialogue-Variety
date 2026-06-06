@@ -79,6 +79,6 @@ Due to how BEXT Timeline spawns missions, sometimes old dialogue for the Great H
 
 faction_newcolonyregion is never called on, it never generates missions.  
 
-Lothian League & Marian Hedgemony are currently not implemented in BEXT, despite having faction files for them.
+Lothian League & Marian Hegemony are currently not implemented in BEXT, despite having faction files for them.
 
 
