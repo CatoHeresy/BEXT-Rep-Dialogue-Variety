@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_PiratesMarianDefault",
+   "internalName" : "PiratesMarianDefault",
+   "firstName" : "Maximus",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Marian Pirate Legion",
+   "showRank" : true,
+   "gender" : "Male",
+   "factionID" : "PiratesMarian",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_PiratesMarian_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

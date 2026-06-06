@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_NCRDefault",
+   "internalName" : "NCRDefault",
+   "firstName" : "Alaric",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "New Colony Region",
+   "showRank" : true,
+   "gender" : "Male",
+   "factionID" : "NewColonyRegion",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_NCR_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_YakuzaDefault",
+   "internalName" : "YakuzaDefault",
+   "firstName" : "Miyamoto",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "The Yakuza",
+   "showRank" : true,
+   "gender" : "Male",
+   "factionID" : "CriminalYakuza",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_Yakuza_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

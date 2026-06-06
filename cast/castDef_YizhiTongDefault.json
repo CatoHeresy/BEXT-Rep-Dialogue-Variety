@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_YizhiTongDefault",
+   "internalName" : "YizhiTongDefault",
+   "firstName" : "Mei",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Yizhi Tong",
+   "showRank" : true,
+   "gender" : "Female",
+   "factionID" : "CriminalYizhiTong",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_YizhiTong_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

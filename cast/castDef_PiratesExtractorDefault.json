@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_PiratesExtractorDefault",
+   "internalName" : "PiratesExtractorDefault",
+   "firstName" : "Brewer"
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Rim Worlds Pirates",
+   "showRank" : true,
+   "gender" : "Female",
+   "factionID" : "PiratesExtractor",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_PiratesExtractor_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

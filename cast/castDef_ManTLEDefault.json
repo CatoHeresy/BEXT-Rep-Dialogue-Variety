@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_ManTLEDefault",
+   "internalName" : "ManTLEDefault",
+   "firstName" : "Raine",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Man-TLE",
+   "showRank" : true,
+   "gender" : "None",
+   "factionID" : "CriminalManTLE",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_ManTLE_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}

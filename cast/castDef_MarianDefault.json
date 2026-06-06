@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_MarianDefault",
+   "internalName" : "MarianDefault",
+   "firstName" : "Titus",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Marian Hegemony",
+   "showRank" : true,
+   "gender" : "Male",
+   "factionID" : "Marian",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_Marian_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}
