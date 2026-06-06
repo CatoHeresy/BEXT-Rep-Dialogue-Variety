@@ -1,0 +1,56 @@
+{
+    "ID": "faction_Illyrian",
+    "Name": "Illyrian Palatinate",
+    "ShortName": "Illyria",
+    "Description": "The Illyrian Palatinate is a minor Periphery power, located anti-spinward of Terra. The Illyrian Palatinate was founded in the mid 24th century by groups of Scandinavian colonists, however it currently faces pressure from both the Circinus Federation and the Marian Hegemony.  The Palatinate enjoys good relations with the Free Worlds League, providing the primary markets for Illyrian steel and iron; the FWL providing foodstuffs.",
+    "Demonym": "Illyrian",
+    "Government": "Palatinate",
+    "Allies": [
+		"Marik"
+	],
+    "Enemies": [
+        "PiratesCircinus",
+		"PiratesMarian",
+        "Steiner",
+        "Liao",
+        "Marian",
+        "Circinus"
+    ],
+    "Presence": 0.1,
+    "ReputationStatements": [
+        "I confess I find military solutions somewhat inelegant. Our nation prospers through trade. Conflict tends to interfere with that.",
+        "I'd much rather be discussing steel prices than battlefield deployments. Let us not tarry.",
+        "The matter before us is unfortunate, but relatively straightforward.",
+        "They say Illyrian steel keeps the Free Worlds free. A disruption to trade affects far more people than those directly involved.",
+        "Steel, food, machinery, shipping; remove any one piece and the entire system suffers.",
+        "Reliability is the foundation of both commerce and partnerships. Your reputation continues to improve in our circles.",
+        "We've found your services refreshingly professional. The Palatinate remembers those who contribute to its prosperity."
+    ],
+    "MissionSuccessStatements": [
+        "A satisfactory result for all concerned. Well, nearly all. Trade can now continue."
+    ],
+    "GoodFaithFailureStatements": [
+        "Steel survives the furnace by enduring pressure. So do nations. We shall adjust and proceed accordingly."
+    ],
+    "BadFaithFailureStatements": [
+        "Several interested parties will be asking questions. I fear I have very few satisfactory answers."
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_LocalsDefault",
+    "DefaultRepresentativeCastDefId" : "castDef_IllyrianDefault",
+    "DataManager" : null,
+    "factionID": "Illyrian",
+    "icon": "uixTxrLogo_Illyrian",
+    "HeraldryDefId": "heraldrydef_Illyrian",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

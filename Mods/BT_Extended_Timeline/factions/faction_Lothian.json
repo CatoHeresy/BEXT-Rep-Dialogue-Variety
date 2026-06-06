@@ -1,0 +1,53 @@
+{
+  "ID": "faction_Lothian",
+  "Name": "Lothian League",
+  "ShortName": "the League",
+  "Description": "The Lothian League is a small Periphery realm composed of ice-and-snow planets located beyond the outer reaches of the Free Worlds League.",
+  "Demonym": "Lothian",
+  "Government": "League",
+  "Allies": [],
+  "Enemies": [
+        "AuriganPirates",
+        "Locals",
+		"Marian"
+  ],
+  "Presence": 1,
+  "ReputationStatements": [
+    "Get the job done and you'll be paid. Don't mistake our hospitality for friendship.",
+    "The weather's bad, the situation's worse, and now I'm dealing with contractors.",
+    "Winter doesn't care about excuses, and neither do I.",
+    "The League military is capable, but thin on Mechs. We could use a contractor.",
+    "You've earned a measure of trust. Don't squander it.",
+    "You work hard, complain little, and keep your word. That's enough for me.",
+    "You fight like people used to hard living. The League respects that."
+  ],
+  "MissionSuccessStatements": [
+    "That's one less problem for folks trying to survive out here. You earned your pay today."
+  ],
+  "GoodFaithFailureStatements": [
+    "Nobody's happy with the outcome. Doesn't mean I blame you."
+  ],
+  "BadFaithFailureStatements": [
+    "The weather didn't beat you. The enemy didn't beat you. You beat yourself."
+  ],
+  "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
+  "DefaultRepresentativeCastDefId": "castDef_LothianDefault",
+  "DataManager": null,
+  "factionID": "Lothian",
+  "icon": "uixTxrLogo_Lothian",
+  "heraldryDefId": "heraldrydef_lothian",
+  "storePanelImage": null,
+  "factionStoreColor": null,
+  "factionMapBorderOverrideColor": "rgba(0,0,0,1.0)",
+  "factionMapColor": "rgba(123,40,8,1.0)",
+  "StartingReputationValues": [
+    -5,
+    -5,
+    0
+  ],
+  "StartingReputationModes": [
+    "KAMEA_CAMPAIGN",
+    "CAREER",
+    "NONE"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+    "ID" : "faction_CriminalYakuza",
+    "Name" : "the Yakuza",
+    "ShortName" : "criminals",
+    "Description" : "Equipment Rating: Average (Mercenaries)\r\n\r\nA shadowy criminal society, the Yakuza operate in the Draconis Combine and its former territories. They trace their roots back to Terra, though they have maintained their Japanese heritage despite absorbing a number of other mob-type enterprises over the years.\r\n\r\nReputation with the criminal underworld isn't about cordial relations. After all, such organisations are often in conflict. Rather, it represents a Mercenary Company's criminal street cred, or conversely their actions acting as the various Houses police force.",
+    "Demonym" : "criminal",
+    "Government" : "gang",
+    "Allies" : [
+        
+    ],
+    "Enemies" : [
+		"Davion",
+		"Steiner",
+        "NoFaction",
+        "Liao",
+		"Locals",
+		"Marik",
+		"Kurita",
+		"Rasalhague",
+		"Outworld"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+		"Your reputation is unpleasant. Fortunately, unpleasant people can still be useful.",
+        "Do not mistake this contract for respect. You are merely efficient.",
+        "Conduct yourselves professionally and payment will be generous. Embarrass us, and payment will be the least of your concerns.",
+		"A business rival has forgotten the importance of respect. You will remind them.",
+        "This matter involves honor, territory, and revenue. In that order.",
+        "Your previous work for the Yakuza demonstrated discipline. That is highly valued.",
+        "Reliable, discreet, and lethal. You understand good business."
+    ],
+    "MissionSuccessStatements" : [ 
+		"The matter is resolved. We will proceed as if it was never discussed.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"This outcome is regrettable, but not dishonorable.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"You were entrusted with responsibility. You chose to discard it.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_YakuzaCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_YakuzaDefault",
+    "DataManager" : null,
+    "factionID" : "CriminalYakuza",
+	"icon" : "uixTxrLogo_CriminalYakuza",
+    "heraldryDefId" : "heraldrydef_criminalyakuza",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

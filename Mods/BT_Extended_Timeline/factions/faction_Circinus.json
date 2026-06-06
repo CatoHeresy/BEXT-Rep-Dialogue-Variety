@@ -1,0 +1,56 @@
+{
+    "ID" : "faction_Circinus",
+    "Name" : "Circinus Federation",
+    "ShortName" : "Circinus",
+    "Description" : "The Circinus Federation is a minor Periphery state, located anti-spinward of the Lyran Commonwealth/Free Worlds League border. The Circinus Federation is a Bandit Kingdom but has adopted a presidential system of government.  Founded by fleeing mercenaries from Marik space circa. 2770, they were also later joined by Lyran's fleeing the destruction after the Amaris Crisis in 2785.  The settlers, mostly turned farmers, provided economy, stability and help provide the illusion of a respectable agrarian society. The Federation is ruled by a President, while the Black Warriors currently serve as the entire Circinian military. The Federation maintains no real relations with other periphery powers, and their relations with the Commonwealth and Free Worlds League is constantly strained because of the frequent raids conducted by the Black Warriors piracy. The current ruler of the Circinus Federation is President McIntyre, who respects a series of reconciliation treaties with the governments of both the Lyran Commonwealth and the Free Worlds League however the Black Warriors have split loyalties between the President and the Cirion family, heirs to the Black Warriors command so there is never truly peace.",
+    "Demonym" : "Circinian",
+    "Government" : "Federation",
+    "Allies" : [
+		"PiratesCircinus",
+		"PiratesMarian",
+        "Marian"
+    ],
+    "Enemies" : [
+		"Illyrian",
+        "Steiner",
+        "Locals",
+		"Marik"
+    ],
+    "Presence" : 1,
+    "ReputationStatements": [
+        "Mercenary-dog! How dare you continue defy us?! The Black Warrior Fleet demands your obedience at once! These are your orders.",
+        "The Black Warriors acknowledges you are a serious mercenary force. We would have you work with us, rather than against us.",
+        "Why Commander, the Circinus are just innocent farmers trying to survive, everyone knows that. Help defend us lowly peasants hmmm?",
+        "The Circinus Federation has a contract for a mercenary group of your caliber, if you are interested?",
+        "You fight well Commander. I have another contract for you, one which will benefit all parties involved in this charade.",
+        "The Black Warriors send their compliments. Keep performing like this and you'll have friends in very dangerous places.",
+        "You always do exactly what I need. Do you know how rare that is? Most people disappoint me eventually. Now, what shall we burn today?"
+    ],
+    "MissionSuccessStatements": [
+        "The Black Warriors are pleased. Trust me, that's the outcome everyone prefers."
+    ],
+    "GoodFaithFailureStatements": [
+        "You withdrew? You actually withdrew?! Take your paltry payment and get out of my sight, before I arrange a much more permanent solution to this problem!"
+    ],
+    "BadFaithFailureStatements": [
+        "I should cut out your heart and feed it to my DOG for failing! How DARE you betray us this way! #incoherent shrieking#"
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_CircinusDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_CircinusDefault",
+    "DataManager" : null,
+    "factionID" : "Circinus",
+	"icon" : "uixTxrLogo_Circinus",
+    "heraldryDefId" : "heraldrydef_blackwarriors",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -15,
+        -15,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

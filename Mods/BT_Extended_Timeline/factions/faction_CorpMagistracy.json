@@ -1,0 +1,55 @@
+{
+    "ID" : "faction_CorpMagistracy",
+    "Name" : "corporations",
+    "ShortName" : "the corporation",
+    "Description" : "Equipment Rating: Average (Mercenaries)\r\n\r\nCorporations care about the bottom line, which has advantages and disadvantages for mercenaries.  On the one hand, corporate executives recognize mercenaries as fellow independent businessmen and generally treat them with a degree of professional courtesy. On the other hand, they carefully weigh costs and benefits in every negotiation.",
+    "Demonym" : "corporate",
+    "Government" : "organisation",
+    "Allies" : [
+        "ComStar",
+		"Liao",
+        "TaurianConcordat",
+		"Marian",
+		"AuriganPirates"
+    ],
+    "Enemies" : [
+        "MagistracyOfCanopus"
+    ],
+    "Presence" : 1.5,
+    "ReputationStatements" : [
+		"The board has authorized this expenditure. I'd prefer not to explain why it was wasted.",
+        "The board has authorized this expenditure. I'd prefer not to explain why it was wasted.",
+        "The board has authorized this expenditure. I'd prefer not to explain why it was wasted.",
+        "The board has authorized this expenditure. I'd prefer not to explain why it was wasted.",
+        "The board has authorized this expenditure. I'd prefer not to explain why it was wasted.",
+        "The board has authorized this expenditure. I'd prefer not to explain why it was wasted.",
+        "The board has authorized this expenditure. I'd prefer not to explain why it was wasted."
+    ],
+    "MissionSuccessStatements" : [ 
+		"The board will be pleased. That's generally a positive development for everyone involved.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"The board will not celebrate this result, but neither will they panic.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"The board will ask how this happened. I assure you, your name will feature prominently in the explanation.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_CorpCommander2",
+    "DefaultRepresentativeCastDefId" : "castDef_CorpDefault",
+    "DataManager" : null,
+    "factionID" : "CorpMagistracy",
+    "icon" : "uixTxrLogo_Corporation",
+    "heraldryDefId" : "heraldrydef_canopuscorporation",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        0,
+        0,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

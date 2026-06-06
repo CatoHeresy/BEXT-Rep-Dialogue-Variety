@@ -1,0 +1,55 @@
+{
+  "ID": "faction_Elysia",
+  "Name": "the Elysian Fields",
+  "ShortName": "Elysia",
+  "Description": "The Elysian worlds are all planets maintained in their pristine wilderness state. An oddity even among the strange worlds of the Periphery, Elysian Fields was a private hold of the Inheritor philosophic movement and later the One Star Faith. De-facto a protectorate of the Oberon Confederation, for whom they have forsworn all military.",
+  "Demonym": "Elysian",
+  "Government": "state",
+  "Allies": [
+	"PiratesOberon",
+	"Oberon"
+  ],
+  "Enemies": [
+        "Locals",
+		"Valkyrate"
+  ],
+  "Presence": 1,
+  "ReputationStatements": [
+    "I wish there were another way to resolve this matter.",
+    "We are not accustomed to hiring soldiers. I hope you understand why.",
+    "We ask only that innocent people be allowed to continue their lives. Please accomplish what is necessary and no more.",
+    "Welcome traveler to the Elysian Fields. Pilgrims of the One Star faith live here in harmony and have forsworn martial forces. Sadly, there are still times when peace must be protected.",
+    "Thank you for protecting the faithful of the Elysian Fields, Commander. We would like to employ you once more to defend our faith and way of life.",
+    "Welcome blessed friend of the Elysian Fields. Our communities face a threat they cannot confront alone.",
+    "The One Star bless and keep you well, Commander. It is comforting to know there are still those willing to protect others."
+  ],
+  "MissionSuccessStatements": [
+    "Thank you. Many people will never know how close danger came. May the One Star shine kindly upon your journey."
+  ],
+  "GoodFaithFailureStatements": [
+    "Not every struggle ends as we hope. You did what you could under difficult circumstances."
+  ],
+  "BadFaithFailureStatements": [
+    "This is a sorrowful outcome. The people we sought to protect have nowhere else to go."
+  ],
+  "DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
+  "DefaultRepresentativeCastDefId": "castDef_ElysiaDefault",
+  "DataManager": null,
+  "factionID": "Elysia",
+  "icon": "uixTxrLogo_Elysia",
+  "HeraldryDefId": "heraldrydef_elysia",
+  "storePanelImage": null,
+  "factionStoreColor": null,
+  "factionMapBorderOverrideColor": "rgba(0,0,0,1.0)",
+  "factionMapColor": "rgba(255,0,255,1.0)",
+  "StartingReputationValues": [
+    -5,
+    -5,
+    0
+  ],
+  "StartingReputationModes": [
+    "KAMEA_CAMPAIGN",
+    "CAREER",
+    "NONE"
+  ]
+}

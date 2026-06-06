@@ -1,0 +1,60 @@
+{
+    "ID" : "faction_PiratesMarch",
+    "Name" : "Chaos March Pirates",
+    "ShortName" : "the pirates",
+    "Description" : "The Chaos March region is a confused warzone. With the system in constant turmoil and fleets of multiple houses constantly passing through, it is all too easy for rogue elements to pass through undetected. The Chaos March pirates are a brutally effective collection of renegade mercenaries and former planetary forces, who thrive on the instability of the region.",
+    "Demonym" : "pirate",
+    "Government" : "gang",
+    "Allies" : [
+        
+    ],
+    "Enemies" : [
+        "AuriganMercenaries",
+		"Davion",
+		"Steiner",
+        "NoFaction",
+        "Liao",
+		"Locals",
+		"Marik",
+		"Kurita",
+		"Rasalhague",
+		"Ives"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "Sooner or later, mercs betray everyone. Just the nature of the game.",
+        "You’ve crossed half the factions in this region. Bold strategy. Stupid, but bold.",
+        "If the locals ask who sent you, lie creatively. They can't prove otherwise.",
+        "The region is in flames already. We’re just helping things along.",
+        "Nobody rules the Chaos March for long. That’s what makes it fun.",
+        "Half the would-be leaders and warlords in this region hate you. The smart half fear you.",
+        "You’ve survived the March this long. That alone earns respect."
+    ],
+    "MissionSuccessStatements" : [ 
+		"You thrive in chaos almost as much as we do.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"The March eats most mercs alive. You at least spat in its eye on the way down.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Pathetic. The March is no place for amateurs.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_PiratesMarchDefault",
+    "DataManager" : null,
+    "factionID" : "PiratesMarch",
+	"icon" : "uixTxrLogo_PiratesMarch",
+    "heraldryDefId" : "heraldrydef_piratesmarch",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

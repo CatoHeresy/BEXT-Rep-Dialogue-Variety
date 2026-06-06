@@ -1,0 +1,61 @@
+{
+    "ID" : "faction_PiratesMarian",
+    "Name" : "Marian Pirate Legion",
+    "ShortName" : "the legion",
+    "Description" : "The Marian Hegemony has spent a century preying upon nearby trade routes and worlds as a means of keeping their economy functioning. Marian Pirate Legions are usually, but not always, state-sponsored, with the goal of inflicting instability on neighboring systems.",
+    "Demonym" : "pirate",
+    "Government" : "gang",
+    "Allies" : [
+        
+    ],
+    "Enemies" : [
+        "AuriganMercenaries",
+        "AuriganDirectorate",
+        "Illyrian",
+        "MagistracyOfCanopus",
+        "AuriganRestoration",
+        "NoFaction",
+        "Liao",
+		"Locals",
+		"Marik",
+		"Andurien",
+		"WolfsDragoons"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "Foreign mercenaries lack discipline, honor, and proper loyalty. Still, even barbarians can fight.",
+        "Speak less. Kill more. You’ll find Romans appreciate efficiency.",
+		"Crush their defenders. A fearful population is a cooperative population.",
+        "The weak exist to serve the strong. Today, you serve us.",
+        "Spoils, slaves, salvage — victory has many rewards.",
+        "You have the discipline of legionaries and the appetite of conquerors. Admirable traits.",
+        "The Legion values proven allies. You’ve earned favorable standing here."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Victory honors us both. The Legion rewards strength, and you've displayed plenty of it.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"The Legion would not call this victory. Still, you fought with discipline.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Were you before us, we would have you whipped! Cowards have no place within the Legion.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_PiratesMarianDefault",
+    "DataManager" : null,
+    "factionID" : "PiratesMarian",
+	"icon" : "uixTxrLogo_PiratesMarian",
+    "heraldryDefId" : "heraldrydef_piratesmarian",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

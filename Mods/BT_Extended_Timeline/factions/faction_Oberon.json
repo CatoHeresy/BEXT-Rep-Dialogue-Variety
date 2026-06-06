@@ -1,0 +1,58 @@
+{
+  "ID": "faction_Oberon",
+  "Name": "Oberon Confederation",
+  "ShortName": "Oberon",
+  "Description": "The Oberon Confederation is quite simply a bandit state, veiled in a thin veneer of legitimacy. Piracy and slavery are still rampant, although House Grimm has taken steps to push such things out of the public eye.",
+  "Demonym": "Oberon",
+  "Government": "kingdom",
+  "Allies": [
+	"PiratesOberon",
+	"Elysia"
+  ],
+  "Enemies": [
+        "Kurita",
+        "Steiner",
+        "Locals",
+		"Valkyrate",
+		"Rasalhague"
+	],
+  "Presence": 1,
+  "ReputationStatements": [
+    "I'd rather be hiring Oberon boys for this job. Unfortunately they're busy elsewhere.",
+    "House Grimm says we're a proper nation now. Maybe so. Doesn't mean I like trusting mercenaries.",
+    "Some people stopped paying tribute. That's a mistake we intend to correct.",
+    "Welcome to the Oberon Confederation. Our authority in this region is not optional. Now the pleasantries are done, I've got work for mercs of your caliber.",
+    "Order isn't free. Neither is protection. Time somebody remembered that.",
+    "My old raider crew would've liked you. Professional, dangerous, and not too chatty.",
+    "House Grimm has taken notice of your company. That's usually a good thing. Means I can give you the real important jobs now."
+  ],
+  "MissionSuccessStatements": [
+    "That's settled, then. Funny how reasonable people become after a demonstration of force."
+  ],
+  "GoodFaithFailureStatements": [
+    "The target got away with something today. Doesn't mean they'll get away forever."
+  ],
+  "BadFaithFailureStatements": [
+    "You ran. That's the sort of thing people remember. Now every little world on the border is going to wonder if they can tell us no."
+  ],
+  "DefaultCombatLeaderCastDefId": "castDef_PirateDefaultCommander",
+  "DefaultRepresentativeCastDefId": "castDef_OberonDefault",
+  "DataManager": null,
+  "factionID": "Oberon",
+  "icon": "uixTxrLogo_Oberon",
+  "HeraldryDefId": "heraldrydef_oberon",
+  "storePanelImage": null,
+  "factionStoreColor": null,
+  "factionMapBorderOverrideColor": "rgba(0,0,0,1.0)",
+  "factionMapColor": "rgba(255,229,153,1.0)",
+  "StartingReputationValues": [
+    -15,
+    -15,
+    0
+  ],
+  "StartingReputationModes": [
+    "KAMEA_CAMPAIGN",
+    "CAREER",
+    "NONE"
+  ]
+}
