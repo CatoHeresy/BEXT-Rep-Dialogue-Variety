@@ -10,6 +10,9 @@ This project gives every faction a unique representative with a full dialogue sy
 ![Example](/Example-Images/Mafia-After.jpg)
 ![Example](/Example-Images/Criminal-Mafia.png)
 
+##### All sprites in this mod are AI generated using https://deepai.org/
+---
+
 ## Faction Details
 
 ### Underworld
@@ -20,8 +23,6 @@ All 11 BEXT Pirate Factions and 8 Criminal Syndicates get:
 - A revised faction description field with lore from Sarna.
 
 ![Example](/Example-Images/Pirate-Circinus.png) ![Example](/Example-Images/Criminal-Yakuza.png) ![Example](/Example-Images/Pirates-Antallos.png)
-
-
 
 ### Minor Power Factions
 Every Minor Power faction receives: 
