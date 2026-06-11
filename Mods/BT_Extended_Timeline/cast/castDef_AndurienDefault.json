@@ -1,0 +1,18 @@
+{
+   "id" : "castDef_AndurienDefault",
+   "internalName" : "AndurienDefault",
+   "firstName" : "Rhys",
+   "lastName" : "",
+   "callsign" : null,
+   "rank" : "Duchy of Andurien",
+   "showRank" : true,
+   "gender" : "Male",
+   "factionID" : "Andurien",
+   "defaultEmotePortrait" : {
+      "emote" : "Default",
+      "portraitAssetPath" : "../../Mods/BT_Extended_Timeline/portraits/guiTxrPort_Andurien_Rep.png"
+   },
+   "emotePotraitList" : [
+      
+   ]
+}
