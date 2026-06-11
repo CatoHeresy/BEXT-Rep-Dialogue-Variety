@@ -141,6 +141,8 @@ The Arc-Royal Defense Cordon was a region of space in the Lyran Alliance ruled b
 An oddity even among the strange worlds of the Periphery, the Elysian Fields was a private hold of the Inheritor philosophic movement and later the One Star Faith. 
 The Elysian Fields are a de-facto protectorate of the Oberon Confederation, to whom they have forsworn all military.
 The Oberon Confederation wants to be seen as a legitimate state, but underneath the paint it's still a pirate kingdom, with slavery and extortion still common.
+Under House Humphreys Andurien was a restive province with a strong anti-Marik bias, which led it to secede from the Free Worlds League in 3030.
+The Duchy of Andurien was considered a particularly open and enlightened form of this government, with citizens enjoying substantial freedoms. 
 All warfare is based on deception. - Sun Tzu
 He will win who knows when to fight and when not to fight. - Sun Tzu
 We cannot enter into alliances until we are acquainted with the designs of our neighbors. - Sun Tzu
@@ -173,7 +175,7 @@ Guerrilla tactics and stubborn pilots — Taurian trademarks.
 Flexible units, unpredictable tactics — Canopian forces are full of surprises.
 Low tech doesn’t mean low threat — Outworlders make every shot count.
 Simple Mechs, smart tactics. Keep it lean and lethal.
-Glory to the Republic! And the autocannon. - Marian Hedgemony
+Glory to the Republic! And the autocannon. - Marian Hegemony
 Life on the fringe teaches harsh lessons — usually through lasers.
 Never assume a backwater pilot can't outfight you.
 Pirates don’t play fair — so neither should you.
@@ -208,3 +210,5 @@ High Risk. High Pay. High Adventure!
 Seize The Day.
 Our wrath falls from the heavens.
 Executing Order 66.
+Director Espinosa sees himself as a necessary ruler in a dangerous age. To him, harsh measures are regrettable but necessary.
+The Aurigan Directorate does not ask for cooperation so much as expects it.
