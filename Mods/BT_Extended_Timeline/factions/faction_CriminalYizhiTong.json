@@ -1,0 +1,63 @@
+{
+    "ID" : "faction_CriminalYizhiTong",
+    "Name" : "Yizhi Tong",
+    "ShortName" : "criminals",
+    "Description" : "Equipment Rating: Average (Mercenaries)\r\n\r\nThe Yihzi Tong is said to possess a rigid hierarchy, strong internal discipline and a fanatically loyal membership. They are commonly involved in gambling, narcotics, prostitution, smuggling, extortion, and other organized criminal enterprises.\r\n\r\nReputation with the criminal underworld isn't about cordial relations. After all, such organisations are often in conflict. Rather, it represents a Mercenary Company's criminal street cred, or conversely their actions acting as the various Houses police force.",
+    "Demonym" : "criminal",
+    "Government" : "gang",
+    "Allies" : [
+        
+    ],
+    "Enemies" : [
+        "AuriganMercenaries",
+        "AuriganDirectorate",
+		"AuriganRestoration",
+		"Davion",
+        "CriminalRostakovTong",
+        "NoFaction",
+        "Liao",
+		"Locals",
+		"Marik",
+		"Ives",
+		"CriminalBeroskiFamily",
+		"Andurien",
+		"Tikonov"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "You dare show your face?! You are fortunate we have decided not to kill you... yet. Your firepower remains useful.",
+        "I dislike unpredictability. You are unpredictability wearing BattleMech armor. You will learn your place, gaijin.",
+        "The Yizhi Tong demands precision, Commander. Random destruction is for amateurs.",
+        "You wish to serve the Yizhi Tong? Understand this is not a partnership entered into lightly.",
+        "Our rivals have made a tactical error. You are to teach them a harsh lesson.",
+        "Your precision continues to impress our leadership. I have a new target for you.",
+        "Welcome, Blade of the Tong. My masters bid you welcome, and would have you attend a matter requiring your skills."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Disciplined, discrete, lethal. These are calling cards of the Yizhi Tong. You have served us well this day.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"This is... unfortunate. Ah, fear not Commander, we understand your resolve was not lacking today.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"The Yizhi Tong does not judge failure. It punishes it. You should make amends before your lives are forfeit.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_YizhiTongCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_YizhiTongDefault",
+    "DataManager" : null,
+    "factionID" : "CriminalYizhiTong",
+	"icon" : "uixTxrLogo_CriminalYizhiTong",
+    "heraldryDefId" : "heraldrydef_criminalyizhitong",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

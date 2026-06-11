@@ -1,0 +1,61 @@
+{
+    "ID" : "faction_PiratesExtractor",
+    "Name" : "Rim Worlds Pirates",
+    "ShortName" : "the pirates",
+    "Description" : "The Rim Worlds Pirates are an organized gang of outlaw salvage teams and mech chop-shops, creating a steady flow of illegal parts to independent worlds along the frontier.",
+    "Demonym" : "pirate",
+    "Government" : "gang",
+    "Allies" : [
+        
+    ],
+    "Enemies" : [
+        "AuriganMercenaries",
+		"Steiner",
+        "NoFaction",
+		"Locals",
+		"Valkyrate",
+		"PiratesValkyrate",
+		"Oberon",
+		"PiratesOberon",
+		"CriminalMalthus",
+		"Rim",
+		"WolfsDragoons"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "The great pirate-killing Commander wants to make amends? No way. Most of our crews want you dead.",
+        "Every new border governor thinks they can tame the Rim. They all learn otherwise.",
+        "I don't trust you. Don't take it personal — I don't trust anybody.",
+        "Raiding 101. Hit hard, salvage the wrecks, and leave before any friends show up. Think you can do that?",
+        "Got a prime target, ready for taking. Don’t start growing principles on me now.",
+        "Fight mean, drink hard and take no shit. That's the pirate life.",
+        "Commander, one of our crews has flagged something REAL special. You're gonna love this."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Huh, they broke faster than expected. Good haul! The crew's drinking tonight.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"Didn't get the prize, but you gave it a hell of a try.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"For someone with your hardware, we expected better things. We expected professionals. We received panic.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_PiratesExtractorDefault",
+    "DataManager" : null,
+    "factionID" : "PiratesExtractor",
+	"icon" : "uixTxrLogo_PiratesExtractor",
+    "heraldryDefId" : "heraldrydef_piratesextractor",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

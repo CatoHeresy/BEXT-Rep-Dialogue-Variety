@@ -1,0 +1,59 @@
+{
+    "ID" : "faction_PiratesDamned",
+    "Name" : "Antallos Pirates",
+    "ShortName" : "the pirates",
+    "Description" : "The Antallos Pirates are a weathered band of barbary corsairs, mystic brigands, philosopher-smugglers and desert raiders, who speak in parables while robbing you blind. Antallos Pirates see wealth, fate, and violence as natural parts of the cosmic order. They are often surprisingly calm, even when discussing murder or betrayal. Their spirituality does not make them kinder - it merely provides a framework that justifies their actions.",
+    "Demonym" : "pirate",
+    "Government" : "gang",
+    "Allies" : [
+        
+    ],
+    "Enemies" : [
+        "AuriganMercenaries",
+		"Davion",
+        "NoFaction",
+		"Locals",
+		"Kurita",
+		"Outworld",
+		"WolfsDragoons",
+		"CriminalYakuza",
+		"CriminalCloak"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "The desert teaches patience. You have not yet earned mine.",
+        "Many seek fortune at Antallos. Most become cautionary tales instead.",
+        "Wealth moves through this region like water through sand. We intend to redirect the flow.",
+        "The universe seeks balance. At present, too much wealth rests in another man's hands.",
+        "Fortune favors action. Let us give fortune an opportunity.",
+        "Our paths have crossed many times, always to mutual benefit. Such things are rarely accidents.",
+        "Among the treasures of this world, a reliable ally is one of the rarest."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Fortune smiled upon us today, though I suspect your cannons helped persuade her.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"We sought treasure and found hardship instead. It is an old story.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Fortune rewards courage. Cowardice earns only regret.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_PiratesAntallosDefault",
+    "DataManager" : null,
+    "factionID" : "PiratesDamned",
+	"icon" : "uixTxrLogo_PiratesDamned",
+    "heraldryDefId" : "heraldrydef_piratesdamned",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

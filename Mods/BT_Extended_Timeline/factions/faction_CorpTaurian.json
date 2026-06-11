@@ -1,0 +1,57 @@
+{
+    "ID" : "faction_CorpTaurian",
+    "Name" : "corporations",
+    "ShortName" : "the corporation",
+    "Description" : "Equipment Rating: Average (Mercenaries)\r\n\r\nCorporations care about the bottom line, which has advantages and disadvantages for mercenaries.  On the one hand, corporate executives recognize mercenaries as fellow independent businessmen and generally treat them with a degree of professional courtesy. On the other hand, they carefully weigh costs and benefits in every negotiation.",
+    "Demonym" : "corporate",
+    "Government" : "organisation",
+    "Allies" : [
+        "ComStar"
+    ],
+    "Enemies" : [
+        "TaurianConcordat",
+		"Tortuga",
+		"PiratesTortuga",
+		"PiratesAurigan",
+		"AuriganDirectorate",
+		"AuriganRestoration",
+		"Locals"
+    ],
+    "Presence" : 1.5,
+    "ReputationStatements" : [
+        "The legal department assures me everything involved here is perfectly legitimate.",
+        "The legal department assures me everything involved here is perfectly legitimate.",
+        "The legal department assures me everything involved here is perfectly legitimate.",
+        "The legal department assures me everything involved here is perfectly legitimate.",
+        "The legal department assures me everything involved here is perfectly legitimate.",
+        "The legal department assures me everything involved here is perfectly legitimate.",
+        "The legal department assures me everything involved here is perfectly legitimate."
+    ],
+    "MissionSuccessStatements" : [ 
+		"The quarterly report just became considerably more interesting.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"The objective was not achieved, though your efforts mitigated several projected losses.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"The legal department has advised me not to comment further on this matter.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_CorpCommander1",
+    "DefaultRepresentativeCastDefId" : "castDef_CorpDefault",
+    "DataManager" : null,
+    "factionID" : "CorpTaurian",
+	"icon" : "uixTxrLogo_Corporation",
+    "heraldryDefId" : "heraldrydef_tauriancorporation",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        0,
+        0,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

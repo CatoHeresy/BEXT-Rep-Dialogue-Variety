@@ -1,0 +1,60 @@
+{
+    "ID" : "faction_PiratesTortuga",
+    "Name" : "the Tortuga Pirates",
+    "ShortName" : "the pirates",
+    "Description" : "The Tortuga pirates are among the closest thing the 31st century has to the romantic image of pirates — at least from a distance. Up close, they're still criminals, slavers, raiders, and smugglers.",
+    "Demonym" : "pirate",
+    "Government" : "gang",
+    "Allies" : [
+        "Tortuga"
+    ],
+    "Enemies" : [
+        "AuriganMercenaries",
+        "AuriganDirectorate",
+		"Davion",
+        "TaurianConcordat",
+        "AuriganRestoration",
+        "NoFaction",
+		"Locals",
+		"WolfsDragoons",
+		"CriminalBeroskiFamily",
+		"CriminalCloak"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "A pirate expects treachery mate. It saves a lot of disappointment.",
+        "Try not to rob us before the job’s finished. Professional courtesy 'n all.",
+        "Mind yer manners around me crew. They're criminals, and some of them are sensitive about it.",
+        "There's treasure waiting out there. We simply need to persuade its current owners to part with it.",
+        "This haul's worth a fortune. If it vanishes, I'll assume ye developed expensive tastes.",
+        "Yer've got a pirate's instincts, and I mean that as a compliment.",
+        "The crew's been singing yer praises. Mostly while drunk, but it still counts! Yer've earned a place at the table."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Ha! Now that's a haul worth bragging about! Raise a glass tonight. Yer've earned it.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"Fortune wasn't with us this time. She can be a fickle mistress.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Ye abandoned ship before the battle was decided. Yer've left us with empty holds and a mighty long list of grudges.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_PiratesTortugaDefault",
+    "DataManager" : null,
+    "factionID" : "PiratesTortuga",
+	"icon" : "uixTxrLogo_PiratesTortuga",
+    "heraldryDefId" : "heraldrydef_piratestortuga",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

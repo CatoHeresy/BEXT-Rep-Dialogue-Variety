@@ -1,0 +1,68 @@
+{
+    "ID" : "faction_PiratesOberon",
+    "Name" : "Oberon Reavers",
+    "ShortName" : "the reavers",
+    "Description" : "The Oberon Reavers are a feared pirate band within a feared region of space, with rumored cannibalistic tendencies. Frontier captains warn it is better to not be taken alive when Reaver ships are spotted.",
+    "Demonym" : "pirate",
+    "Government" : "gang",
+    "Allies" : [
+        "Oberon",
+		"Elysia"
+    ],
+    "Enemies" : [
+        "AuriganMercenaries",
+		"Steiner",
+        "NoFaction",
+		"Locals",
+		"Rim",
+		"PiratesValkyrate",
+		"PiratesBelt",
+		"Valkyrate",
+		"Rasalhague",
+		"WolfsDragoons",
+		"Wolf",
+		"GhostBear",
+		"JadeFalcon",
+		"SmokeJaguar",
+		"NovaCat", 
+		"DiamondShark",
+		"SteelViper"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "Take the contract, get paid, then get lost.",
+        "You mercs love acting superior to us. Right up until you need money or backup.",
+        "We do not need soldiers. We need wolves.",
+        "The border worlds are weak. Isolated. Careless. A terrible combination.",
+        "Raid fast, get the metal and vanish. That’s how you stay alive out here.",
+        "You fight like a Reaver already. Easy to forget you’re not one of us.",
+        "You've got guts. Real stone-cold killer. Hell, maybe I should be joining your crew."
+    ],
+    "MissionSuccessStatements" : [ 
+		"You hit hard and disappeared before they knew what happened. Perfect Reaver work.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"We'll recover. Reavers are good at surviving disappointment.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Next time we need hired guns, we'll look for some with a spine.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_PiratesOberonDefault",
+    "DataManager" : null,
+    "factionID" : "PiratesOberon",
+	"icon" : "uixTxrLogo_PiratesOberon",
+    "heraldryDefId" : "heraldrydef_piratesoberon",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

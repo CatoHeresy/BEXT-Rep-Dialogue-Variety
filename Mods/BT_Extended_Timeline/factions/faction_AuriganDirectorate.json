@@ -1,0 +1,59 @@
+{
+    "ID" : "faction_AuriganDirectorate",
+    "Name" : "the Aurigan Directorate",
+    "ShortName" : "the Directorate",
+    "Description" : "The Aurigan Directorate replaced the Aurigan Coalition when Santiago Espinosa, adviser to the High Lady Kamea Arano, betrayed her and led a coup against her government. In the years since that coup, Director Espinosa has solidified his hold on the systems of the Directorate, binding the Founding Families to his cause with a mixture of promises and threats. His rule is oppressive and militaristic, with individual liberties sacrificed to the cause of security and stability.",
+    "Demonym" : "Directorate",
+    "Government" : "Directorate",
+    "Allies" : [
+        "TaurianConcordat"
+    ],
+    "Enemies" : [
+        "AuriganPirates",
+        "AuriganRestoration",
+		"PiratesAurigan",
+		"Locals",
+		"Liao",
+		"Davion",
+        "MagistracyOfCanopus",
+		"NewColonyRegion"
+    ],
+    "Presence" : 2,
+    "ReputationStatements" : [
+        "Desperate times call for desperate measures. We wouldn't be asking to hire you unless we had no other choice. Hopefully the fee will sway you.",
+        "Weak leadership nearly destroyed this realm. We will not repeat that mistake.",
+        "Times are changing, Commander. There is a need in the Directorate for one of your skills. Contracts like this one will pave a way for your future, through us. That future need not be dark.",
+        "A rising tide lifts all ships, Commander. House Espinosa is rising quite quickly. Continue to work for us, and we'll ensure you continue to be a prominent figure in the Reach.",
+        "This assignment is important. The people deserve order, prosperity, and safety. I intend to provide all three.",
+        "Our influence spreads, as do our garrisons. Your help has been invaluable in this, Commander.",
+        "History is written by those willing to make difficult decisions. House Espinosa honors you, Commander."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Excellent work, Commander. I was right to put my faith in you. The Directorate salutes your bravery.",
+    ], 
+	"GoodFaithFailureStatements" : [
+		"A commander may lose a battle. He must never lose his nerve.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"I find your conduct deeply disappointing. The realm depends upon those willing to stand firm. Today, you were not among them.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_DirectorateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_EspinosaDefault",
+    "DataManager" : null,
+    "factionID" : "AuriganDirectorate",
+	"icon" : "uixTxrLogo_AuriganDirectorate",
+    "heraldryDefId" : "heraldrydef_directorate",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "factionMapColor" : "rgba(147,225,161,1.0)",
+    "StartingReputationValues" : [
+        10,
+        0,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

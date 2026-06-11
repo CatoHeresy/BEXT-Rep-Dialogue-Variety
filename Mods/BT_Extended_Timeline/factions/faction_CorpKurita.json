@@ -1,0 +1,58 @@
+{
+    "ID" : "faction_CorpKurita",
+    "Name" : "corporations",
+    "ShortName" : "the corporation",
+    "Description" : "Equipment Rating: Average (Mercenaries)\r\n\r\nCorporations care about the bottom line, which has advantages and disadvantages for mercenaries.  On the one hand, corporate executives recognize mercenaries as fellow independent businessmen and generally treat them with a degree of professional courtesy. On the other hand, they carefully weigh costs and benefits in every negotiation.",
+    "Demonym" : "corporate",
+    "Government" : "organisation",
+    "Allies" : [
+        "ComStar"
+    ],
+    "Enemies" : [
+        "Kurita",
+		"CriminalYakuza",
+		"PiratesSantander",
+		"Outworld",
+		"Rasalhague",
+		"Locals"
+		
+		
+    ],
+    "Presence" : 0.25,
+    "ReputationStatements" : [
+        "Think of this less as a military operation and more as an investment opportunity.",
+        "Think of this less as a military operation and more as an investment opportunity.",
+        "Think of this less as a military operation and more as an investment opportunity.",
+        "Think of this less as a military operation and more as an investment opportunity.",
+        "Think of this less as a military operation and more as an investment opportunity.",
+        "Think of this less as a military operation and more as an investment opportunity.",
+        "Think of this less as a military operation and more as an investment opportunity."
+    ],
+    "MissionSuccessStatements" : [ 
+		"A highly satisfactory outcome. Several quarterly reports just became much more pleasant.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"The shareholders will be disappointed. The risk analysts will be insufferably pleased.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Several clients entrusted us with this operation. Explaining your withdrawal will be an unpleasant conversation.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_CorpCommander1",
+    "DefaultRepresentativeCastDefId" : "castDef_CorpDefault",
+    "DataManager" : null,
+    "factionID" : "CorpKurita",
+    "icon" : "uixTxrLogo_Corporation",
+    "heraldryDefId" : "heraldrydef_kuritacorporation",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        0,
+        0,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

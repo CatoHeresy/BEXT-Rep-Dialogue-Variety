@@ -1,0 +1,74 @@
+{
+    "ID" : "faction_Davion",
+    "Name" : "Federated Suns",
+    "ShortName" : "Davion",
+    "Description" : "The Federated Suns is one of the five Successor States of the Star League, located rimward and spinward of Terra. Ruled by House Davion, the Federation is the most powerful of the five, and the people of the Federation pride themselves on their self-proclaimed role as defenders of justice and liberty. The Federation is quite capable of ruthless, decisive action, though, and its idealism readily gives way to pragmatism when called for. The current ruler of the Federation, Prince Hanse Davion, is an experienced and unconventional military commander. The Federation's alliance with the Lyran Commonwealth effectively ended the Third Succession War.",
+    "Demonym" : "Davion",
+    "Government" : "Federation",
+    "Allies" : [
+        "ComStar",
+        "Steiner",
+		"MagistracyOfCanopus",
+		"Ives"
+    ],
+    "Enemies" : [
+        "Kurita",
+        "Liao",
+		"CriminalBeroskiFamily",
+        "AuriganPirates",
+        "Locals",
+        "TaurianConcordat",
+		"PiratesMarch"
+		"Outworld",
+		"Tortuga",
+		"PiratesTortuga",
+		"ChaosMarch",
+		"CriminalCloak",
+		"Wolf",
+		"GhostBear",
+		"JadeFalcon",
+		"SmokeJaguar",
+		"NovaCat", 
+		"DiamondShark",
+		"SteelViper"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "This contract supports Federated Suns interests. Don’t mistake that for an invitation into them.",
+        "Your company’s record is capable enough. We’ll reserve judgment on the rest.",
+        "Normally we’d assign this operation to AFFS regulars. Circumstances have forced us to look elsewhere.",
+        "House Davion requires mercenaries of skill, Commander, and you fit the bill nicely. With luck, we will both profit from this arrangement.",
+        "Your previous deployments demonstrated discipline under pressure, Commander. That earns trust.",
+        "It’s always good to work alongside mercenaries who understand responsibility as well as profit.",
+        "Honored friend! Your acts in service to House Davion have not been forgotten. In light of this, we present you with this choice contract."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Excellent performance, Commander. The region is significantly more secure thanks to your actions.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"The situation remains unstable. Still, your efforts bought us valuable time and your actions minimized civilian and military losses.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Your retreat compromised broader operational planning across the region. The Federated Suns expects contractors to uphold their commitments.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_DavionDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_DavionRepDefault",
+    "DataManager" : null,
+    "factionID" : "Davion",
+  	"icon" : "uixTxrLogo_Davion",
+    "heraldryDefId" : "heraldrydef_davion",
+    "storePanelImage" : "uixTxrSpot_Store-Davion",
+	"factionStorePlanetTag" : "planet_other_factionhq_davion",
+    "factionStoreColor" : "rgba(57,35,33,1.0)",
+    "factionMapColor" : "rgba(255,220,107,1.0)",
+    "StartingReputationValues" : [
+        -5,
+        -10,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

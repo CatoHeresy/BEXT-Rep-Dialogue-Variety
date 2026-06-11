@@ -1,0 +1,64 @@
+{
+    "ID" : "faction_PiratesCircinus",
+    "Name" : "Circinus Raiders",
+    "ShortName" : "the raiders",
+    "Description" : "Unlike the Circinus Federation, which at least pretends to be a functioning state, Circinus Raiders are little more than roaming warbands held together by greed, fear and warlord charisma.",
+    "Demonym" : "pirate",
+    "Government" : "gang",
+    "Allies": [
+		"PiratesMarian",
+		"Marian",
+		"Circinus"
+	],
+    "Enemies" : [
+        "AuriganMercenaries",
+		"Steiner",
+        "MagistracyOfCanopus",
+		"Rim",
+		"CriminalMalthus",
+        "NoFaction",
+		"Locals",
+		"Marik",
+		"Andurien",
+		"Lothian",
+		"Illyrian",
+		"WolfsDragoons"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "A trial of combat! Yes! To win my affections back.",
+		"If you betray us, make sure you do it successfully. Failed betrayals tend to end very badly.",
+        "Mercenaries always ask questions. Raiders just burn things until the answers fall out.",
+        "Desperate worlds make easy prey. Don’t look so offended — you’re here too.",
+        "Many people want us dead. The feelings mutual. Here's the next on our list.",
+        "I'm starting to enjoy you, Commander. You've got raider instincts.",
+        "Hail, my delicious mercenary morsel. I've got a very special something in mind for you."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Screams, burning mechs, chaos. Always satisfying.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"Sometimes the prey bites back. Happens to all of us.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Out here, weakness attracts predators. Congratulations on advertising yours.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_PiratesCircinusDefault",
+    "DataManager" : null,
+    "factionID" : "PiratesCircinus",
+	"icon" : "uixTxrLogo_PiratesCircinus",
+    "heraldryDefId" : "heraldrydef_piratescircinus",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

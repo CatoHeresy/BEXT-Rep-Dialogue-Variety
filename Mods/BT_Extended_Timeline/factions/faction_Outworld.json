@@ -1,0 +1,59 @@
+{
+    "ID" : "faction_Outworld",
+    "Name" : "Outworlds Alliance",
+    "ShortName" : "Outworlds Alliance",
+	"Description": "The Outworlds Alliance, a nation on the fringes of settled space bordering the Federated Suns and Draconis Combine, was once a prosperous trade hub built by settlers seeking escape from the chaos of the Inner Sphere. However, by the 31st century, the situation in the Outworlds Alliance has become particularly grim. Devastated by centuries of war and a decline in technology, the Alliance worlds suffer from starvation and declining populations. Despite a reasonably strong military, the growing hardships could lead to a desperate uprising.",
+    "Demonym" : "Outworlder",
+    "Government" : "Alliance",
+    "Allies" : [
+        "ComStar"
+    ],
+    "Enemies" : [
+		"Davion",
+		"Kurita",
+        "PiratesDamned",
+		"PiratesTortuga",
+		"CriminalCloak",
+		"Tortuga",
+        "Locals"
+    ],
+    "Presence" : 0.25,
+    "ReputationStatements": [
+        "The Alliance can no longer afford many mistakes. I trust you understand the position we're in.",
+        "I had hoped we could solve this matter without hiring mercenaries. Alas.",
+        "Forgive my caution. Years in public service teach one to expect disappointment before success.",
+        "The Alliance remains committed to maintaining order. Even when doing so becomes increasingly difficult.",
+        "Protecting this world may not change history, but it will matter greatly to the people living on it.",
+        "You have given us reasons for optimism lately, and those are becoming increasingly precious.",
+        "It strikes me Commander, that you have accomplished more for the Outworlds and her people than many politicians manage in an entire career."
+    ],
+    "MissionSuccessStatements": [
+        "For the first time in several weeks, I have a report worth delivering. The Alliance needed some good news. Our sincere gratitude, Commander."
+    ],
+    "GoodFaithFailureStatements": [
+        "The outcome is regrettable. The effort was honorable."
+    ],
+    "BadFaithFailureStatements": [
+        "At my age, one learns that disappointment comes in many forms. This is a particularly bitter example."
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_OutworldDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_OutworldDefault",
+    "DataManager" : null,
+    "factionID" : "Outworld",
+    "icon" : "uixTxrLogo_Outworld",
+    "heraldryDefId" : "heraldrydef_outworld",
+    "storePanelImage" : "uixTxrSpot_Store-Outworld",
+	"factionStorePlanetTag" : "planet_other_factionhq_outworld",
+    "factionStoreColor" : "rgba(39,20,12,1.0)",
+    "factionMapColor" : "rgba(160,82,45,1.0)",
+    "StartingReputationValues" : [
+        -5,
+        -10,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

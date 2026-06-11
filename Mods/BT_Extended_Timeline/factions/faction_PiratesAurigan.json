@@ -1,0 +1,61 @@
+{
+    "ID" : "faction_PiratesAurigan",
+    "Name" : "Aurigan pirates",
+    "ShortName" : "the pirates",
+    "Description" : "The unsettled and abandoned systems of the Rimward Frontier are a haven for pirates \u2014 both in-system predators and renegade JumpShip captains who transport pirate DropShips from one system to another, taking a cut of any illicit profits.",
+    "Demonym" : "pirate",
+    "Government" : "gang",
+    "Allies" : [
+        
+    ],
+    "Enemies" : [
+        "AuriganMercenaries",
+        "AuriganDirectorate",
+        "TaurianConcordat",
+        "MagistracyOfCanopus",
+        "AuriganRestoration",
+        "NoFaction",
+        "Liao",
+		"Locals",
+		"Ives",
+		"Andurien",
+		"WolfsDragoons"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "You crusty mercenary fuck. How about you help us out, just for once yeah? We're kinda desperate here.",
+        "I don't trust you, asshole. Sure as shit don't like you. You killed a buddy of mine on, where was it, that dead rock place? Urgh, that aside we've got an opportunity here.",
+        "You wanna get paid, don't you? Take this job, nice n' easy, we both come out ahead.",
+		"Making the Reach a less safer place. Ask no questions and it's payday.",
+        "This crazy shit seems to suit you. Pull this off, we both make a TON of money.",
+        "Yo, we've got something big! High risk, loads of metal, very illegal. You're interested, right?",
+        "My favorite criminal! Let's get a drink. Ya know, me and the boys have this killer score lined up, and it's HEAVY. Want in?"
+    ],
+    "MissionSuccessStatements" : [ 
+		"Jesus, that haul’s worth a fortune. Knew hiring your crew was a smart move!",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"So your crew didn't get the job done like we wanted, but at least you gave them the finger! Heh! I like that kind of guts, we'll get 'em next time",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"We paid for results, not a fucking retreat the moment things got hot. What a waste of time.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_PiratesAuriganDefault",
+    "DataManager" : null,
+    "factionID" : "PiratesAurigan",
+	"icon" : "uixTxrLogo_AuriganPirates",
+    "heraldryDefId" : "heraldrydef_pirate",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

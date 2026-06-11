@@ -1,0 +1,70 @@
+{
+    "ID" : "faction_PiratesValkyrate",
+    "Name" : "Valkyrate pirates",
+    "ShortName" : "the pirates",
+    "Description" : "Valkyrate pirates originate from the rough bandit kingdom of the Greater Valkyrate, and are notable for emphasizing the dominance of women over men.",
+    "Demonym" : "pirate",
+    "Government" : "gang",
+    "Allies" : [
+        "Valkyrate"
+    ],
+    "Enemies" : [
+        "AuriganMercenaries",
+		"Steiner",
+        "NoFaction",
+		"Locals",
+		"Kurita",
+		"Rim",
+		"Oberon",
+		"PiratesOberon",
+		"PiratesExtractor",
+		"Arc-RoyalDC",
+		"Elysia",
+		"Rasalhague",
+		"WolfsDragoons",
+		"Wolf",
+		"GhostBear",
+		"JadeFalcon",
+		"SmokeJaguar",
+		"NovaCat", 
+		"DiamondShark",
+		"SteelViper"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "If you run when the shooting starts, I’ll personally hunt you down.",
+        "You fight well enough. Shame about the smell of cowardice that follows mercenary companies.",
+        "A proper raid should leave burning wrecks and terrified survivors. Preferably both.",
+        "Hungry for money, I see? There is no shortage of prey on the frontier.",
+        "Be bold, fast, and ruthless. These are the instincts of the Valkyr.",
+        "Your blades will be tested. So will your discipline. Burn them in their cockpits for us.",
+        "You have the respect of the Valkyr. That is not given lightly."
+    ],
+    "MissionSuccessStatements" : [ 
+		"A glorious victory. Songs will be sung about the wreckage you left behind.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"The prey escaped. It happens.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Predators survive by committing. Prey survives by running. You made your choice.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
+    "DefaultRepresentativeCastDefId" : "castDef_PiratesValkyrateDefault",
+    "DataManager" : null,
+    "factionID" : "PiratesValkyrate",
+	"icon" : "uixTxrLogo_PiratesValkyrate",
+    "heraldryDefId" : "heraldrydef_piratesvalkyrate",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

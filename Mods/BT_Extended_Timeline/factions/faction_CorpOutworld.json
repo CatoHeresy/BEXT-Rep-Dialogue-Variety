@@ -1,0 +1,56 @@
+{
+    "ID" : "faction_CorpOutworld",
+    "Name" : "corporations",
+    "ShortName" : "the corporation",
+    "Description" : "Equipment Rating: Average (Mercenaries)\r\n\r\nCorporations care about the bottom line, which has advantages and disadvantages for mercenaries.  On the one hand, corporate executives recognize mercenaries as fellow independent businessmen and generally treat them with a degree of professional courtesy. On the other hand, they carefully weigh costs and benefits in every negotiation.",
+    "Demonym" : "corporate",
+    "Government" : "organisation",
+    "Allies" : [
+        "ComStar"
+    ],
+    "Enemies" : [
+        "Outworld",
+		"PiratesDamned",
+		"PiratesSantander"
+		"Kurita",
+		"Davion",
+		"CriminalCloak"
+    ],
+    "Presence" : 0.25,
+    "ReputationStatements" : [
+        "This operation concerns logistics, security, and shareholder value. Not necessarily in that order.",
+        "This operation concerns logistics, security, and shareholder value. Not necessarily in that order.",
+        "This operation concerns logistics, security, and shareholder value. Not necessarily in that order.",
+        "This operation concerns logistics, security, and shareholder value. Not necessarily in that order.",
+        "This operation concerns logistics, security, and shareholder value. Not necessarily in that order.",
+        "This operation concerns logistics, security, and shareholder value. Not necessarily in that order.",
+        "This operation concerns logistics, security, and shareholder value. Not necessarily in that order."
+    ],
+    "MissionSuccessStatements" : [ 
+		"As expected, the operation proved profitable once competent people became involved.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"We did not achieve our goals, though the situation remains recoverable. Limited remuneration is approved.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"You've managed to lose money, opportunities, and goodwill simultaneously. That's a rare talent.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_CorpCommander1",
+    "DefaultRepresentativeCastDefId" : "castDef_CorpDefault",
+    "DataManager" : null,
+    "factionID" : "CorpOutworld",
+    "icon" : "uixTxrLogo_Corporation",
+    "heraldryDefId" : "heraldrydef_outworldcorporation",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        0,
+        0,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

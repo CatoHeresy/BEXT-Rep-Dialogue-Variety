@@ -1,0 +1,59 @@
+{
+    "ID" : "faction_ChaosMarch",
+    "Name" : "Chaos March World",
+    "ShortName" : "the Locals",
+    "Description" : "After Operation Guerrero was accelerated all traditional Lyran units were ordered home to within the Lyran state's pre-Fourth War borders, leaving many worlds bereft of defenses. In the absence of national militaries, many local governors (and other concerned interests) seized the initiative to restore order. On the worlds where this restoration was successful, most governments were resentful of the apparent lack of interest by the Great Houses, and set up their own nations. The constantly shifting web of alliances, as well as the rapid rise and fall of planetary-level governments led observers to dub this area of instability the Chaos March. The Chaos March is a series of planetary governments or multi-world nation-states, unaffiliated with any of the interstellar states of the Inner Sphere or the Periphery.",
+    "Demonym" : "local government",
+    "Government" : "state",
+    "Allies" : [
+        "WordOfBlake"
+    ],
+    "Enemies" : [
+        "Davion",
+        "Kurita",
+        "Liao",
+        "Marik",
+        "Steiner",
+        "CriminalRostakovTong",
+        "CriminalRedCobraTriad",
+		"PiratesMarch"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "You’re not our first choice. Or our second. Or even our fifth.",
+        "You’re not our first choice. Or our second. Or even our fifth.",
+        "You’re not our first choice. Or our second. Or even our fifth.",
+        "You’re not our first choice. Or our second. Or even our fifth.",
+        "You’re not our first choice. Or our second. Or even our fifth.",
+        "You’re not our first choice. Or our second. Or even our fifth.",
+        "You’re not our first choice. Or our second. Or even our fifth."
+    ],
+    "MissionSuccessStatements" : [ 
+		"A small victory to outsiders, perhaps. To us, it means survival.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"The situation remains difficult, though your efforts prevented greater damage.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"Small nations survive on trust. Today, ours was misplaced.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_LocalsDefault",
+    "DefaultRepresentativeCastDefId" : "castDef_ChaosMarchDefault",
+    "DataManager" : null,
+    "factionID" : "ChaosMarch",
+    "icon" : "uixTxrLogo_Locals",
+    "heraldryDefId" : "heraldrydef_locals",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "factionMapColor" : "rgba(127,158,179,1.0)",
+    "StartingReputationValues" : [
+        0,
+        0,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

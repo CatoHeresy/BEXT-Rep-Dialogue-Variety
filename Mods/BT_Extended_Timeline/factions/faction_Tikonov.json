@@ -1,0 +1,61 @@
+{
+    "ID" : "faction_Tikonov",
+    "Name" : "Tikonov Free Republic",
+    "ShortName" : "Tikonov",
+    "Description" : "In early 3029 Federated Suns intelligence agents became aware that Chancellor Maximillian Liao had issued orders to the Maskirovka to assassinate Colonel Pavel Ridzik. First Prince Hanse Davion, aware of the growing separation between Ridzik and the Chancellor, had already begun laying the groundwork to recruit Ridzik, in February 3029, Federated Suns agents hustled Ridzik away in safety to New Avalon, narrowly avoiding the explosion intended to kill him.\r\n\r\nThe negotiations between Ridzik and AFFS Lieutenant General Ardan Sortek led to Ridzik founding a new nation, the Tikonov Free Republic. Ridzik returned to Elgin, the new capital of the Tikonov Free Republic, on the 3rd of March 3029 and swiftly began implementing a new government consisting of family members, friends and other appointees loyal to himself, purging dissident elements on the various Republic worlds and taking the opportunity to settle old scores.",
+    "Demonym" : "Tikonov",
+    "Government" : "republic",
+    "Allies" : [
+        "ComStar",
+        "Davion",
+        "Steiner",
+		"Ives"
+    ],
+    "Enemies" : [
+        "Kurita",
+        "Liao",
+        "Marik",
+		"Locals",
+        "CriminalRostakovTong",
+        "CriminalRedCobraTriad",
+		"Andurien"
+    ],
+    "Presence" : 1,
+    "ReputationStatements" : [
+        "Too many people claim loyalty to Tikonov these days. We’ll see if yours survives combat.",
+        "The Republic has enemies everywhere. Forgive us if trust does not come easily.",
+        "This operation is about stability. The Republic cannot survive continued unrest.",
+        "Colonel Ridzik expects decisive action. Delays are unacceptable.",
+        "Protect local infrastructure where possible. We are trying to govern these worlds, not destroy them.",
+        "You understand what it means to build order in the middle of chaos.",
+        "There are many who talk about freedom. Fewer willing to fight for it. You did both."
+    ],
+    "MissionSuccessStatements" : [ 
+		"Ridzik will be pleased with this result. More importantly, so will the people.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"You bought us time, even if you could not secure victory. The Republic still stands.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"The Republic cannot survive contractors who break under pressure.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_LocalsDefault",
+    "DefaultRepresentativeCastDefId" : "castDef_TikonovDefault",
+    "DataManager" : null,
+    "factionID" : "Tikonov",
+    "icon" : "uixTxrLogo_Tikonov",
+    "heraldryDefId" : "heraldrydef_tikonov",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "factionMapColor" : "rgba(127,158,179,1.0)",
+    "StartingReputationValues" : [
+        0,
+        0,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "ID" : "faction_NewColonyRegion",
+    "Name" : "New Colony Region",
+    "ShortName" : "the NCR",
+	"Description" : "The New Colony Region is a collection of worlds within the Capellan Marches rimward of the Capellan Confederation jointly colonized by the Magistracy of Canopus and the Taurian Concordat. Interestingly, some of the settlements existed even before the official formation of the region itself.",
+    "Demonym" : "local government",
+    "Government" : "state",
+    "Allies" : [
+		"Liao",
+		"MagistracyOfCanopus",
+		"TaurianConcordat"
+    ],
+    "Enemies" : [
+        "AuriganPirates",
+        "Davion",
+		"AuriganDirectorate",
+		"PiratesAurigan",
+		"Marian",
+		"PiratesMarian"
+    ],
+    "Presence" : 1.5,
+	"ReputationStatements": [
+		"We’re colonists, not politicians. Yet somehow politics keeps arriving armed.",
+		"The NCR survives because communities depend on each other. Outsiders don’t always understand that",
+		"This operation is defensive in nature. We are trying to keep the region functioning.",
+		"The larger powers see frontier worlds as bargaining chips. We’re tired of being traded around.",
+		"Protect the colony infrastructure first. Replacement equipment takes years to arrive out here.",
+		"You understand that survival out here depends on cooperation.",
+		"The settlers speak well of your company. Word travels quickly between colonies."
+	],
+	"MissionSuccessStatements": [
+		"That operation protected families, farms, and infrastructure we could not easily replace."
+	],
+	"GoodFaithFailureStatements": [
+		"The colonies took losses, though your company bought valuable time for evacuation efforts."
+	],
+	"BadFaithFailureStatements": [
+		"The NCR cannot afford contractors who disappear once resistance stiffens. Your retreat left civilian infrastructure exposed to attack."
+	],
+	"DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
+	"DefaultRepresentativeCastDefId": "castDef_NCRDefault",
+    "DataManager" : null,
+    "factionID" : "NewColonyRegion",
+    "icon" : "uixTxrLogo_NewColonyRegion",
+    "heraldryDefId" : "heraldrydef_newcolonyregion",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "factionMapColor" : "rgba(218,222,195,1.0)",
+    "StartingReputationValues" : [
+        -5,
+        -5,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}
