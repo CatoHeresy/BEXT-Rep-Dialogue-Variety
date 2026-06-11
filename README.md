@@ -59,6 +59,13 @@ The Local Government Representative gets a new portrait (credit to: Portrait Ove
 ![Example](/Example-Images/Locals.png)
 
 
+### Enemy Lists Update
+Every faction file has had their enemy lists updated to reflect their interests. This is mostly for flavor but may also help spawn more reasonable local mission targets.
+
+For example: Cloak Syndicate no longer targets every Great House. Instead they are concerned with their local region and now list rival underworld factions as enemies.
+
+![Example](/Example-Images/EnemyListEx.png)
+
 ## Bonus
 The Tortuga Dominions logo has been fixed to be actually visible.
 
