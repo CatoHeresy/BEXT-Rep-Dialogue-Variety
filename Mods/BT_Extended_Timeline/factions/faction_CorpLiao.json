@@ -1,0 +1,58 @@
+{
+    "ID" : "faction_CorpLiao",
+    "Name" : "corporations",
+    "ShortName" : "the corporation",
+    "Description" : "Equipment Rating: Average (Mercenaries)\r\n\r\nCorporations care about the bottom line, which has advantages and disadvantages for mercenaries.  On the one hand, corporate executives recognize mercenaries as fellow independent businessmen and generally treat them with a degree of professional courtesy. On the other hand, they carefully weigh costs and benefits in every negotiation.",
+    "Demonym" : "corporate",
+    "Government" : "organisation",
+    "Allies" : [
+        "ComStar",
+        "Davion",
+        "Steiner",
+        "Marik",
+        "MagistracyOfCanopus",
+        "TaurianConcordat",
+        "AuriganRestoration",
+		"AuriganPirates"
+    ],
+    "Enemies" : [
+        "Liao"
+    ],
+    "Presence" : 1.5,
+    "ReputationStatements" : [
+        "You may view this as a battlefield. We view it as a balance sheet.",
+        "You may view this as a battlefield. We view it as a balance sheet.",
+        "You may view this as a battlefield. We view it as a balance sheet.",
+        "You may view this as a battlefield. We view it as a balance sheet.",
+        "You may view this as a battlefield. We view it as a balance sheet.",
+        "You may view this as a battlefield. We view it as a balance sheet.",
+        "You may view this as a battlefield. We view it as a balance sheet."
+    ],
+    "MissionSuccessStatements" : [ 
+		"The numbers look excellent. I find that reassuring.",
+    ], 
+	"GoodFaithFailureStatements" : [ 
+		"Several projections assumed a far worse outcome than the one we received today.",
+    ],
+	"BadFaithFailureStatements" : [ 
+		"The operation failed, our competitors benefited, and our partners are asking difficult questions. An impressive trifecta.",
+    ],
+	"DefaultCombatLeaderCastDefId" : "castDef_CorpCommander1",
+    "DefaultRepresentativeCastDefId" : "castDef_CorpDefault",
+    "DataManager" : null,
+    "factionID" : "CorpLiao",
+    "icon" : "uixTxrLogo_Corporation",
+    "heraldryDefId" : "heraldrydef_liaocorporation",
+    "storePanelImage" : null,
+    "factionStoreColor" : null,
+    "StartingReputationValues" : [
+        0,
+        0,
+        0
+    ],
+    "StartingReputationModes" : [
+        "KAMEA_CAMPAIGN",
+        "CAREER",
+        "NONE"
+    ]
+}
