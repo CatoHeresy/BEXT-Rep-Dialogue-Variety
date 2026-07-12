@@ -5,7 +5,6 @@ Vanilla BEXT uses a single Faction Rep dialogue line for all criminal and pirate
 
 This project gives every faction a unique representative with a full dialogue system. Here is an example for the Mafia:
 
-![Example](/Example-Images/Mafia-After.jpg)
 ![Example](/Example-Images/Criminal-Mafia.png)
 
 ##### All sprites in this mod are AI generated using https://deepai.org/
