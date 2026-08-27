@@ -19,7 +19,7 @@ All 11 BEXT Pirate Factions and 8 Criminal Syndicates get:
 - A full dialogue set, unique to each faction rep. 
 - A revised faction description field with lore from Sarna.
 
-![Example](/Example-Images/Pirate-Circinus.png) ![Example](/Example-Images/Criminal-Yakuza.png) ![Example](/Example-Images/Pirates-Antallos.png)
+![Example](/Example-Images/Pirates-Valkyrate.png) ![Example](/Example-Images/Criminal-Yakuza.png) ![Example](/Example-Images/Pirates-Antallos.png) ![Example](/Example-Images/Criminal-Yihzi.png)
 
 ### Minor Power Factions
 Every Minor Power faction receives: 
@@ -28,7 +28,7 @@ Every Minor Power faction receives:
 - A full dialogue set, unique to each faction rep.
 - A revised faction description field with lore from Sarna.
 
-![Example](/Example-Images/Elysia.png) ![Example](/Example-Images/Oberon.png) ![Example](/Example-Images/Outworlds.png)
+![Example](/Example-Images/Outworlds.png) ![Example](/Example-Images/Ives.png) ![Example](/Example-Images/Circinus.png) ![Example](/Example-Images/Elysia.png) 
 
 
 ### Major Periphery Factions
@@ -62,7 +62,9 @@ Every faction file has had their enemy lists updated to reflect their interests.
 
 
 ## Bonus
-The Tortuga Dominions logo has been fixed to be actually visible.
+Inverts the Tortuga Dominions logo color from black to white to be actually visible in-game.
+
+![Example](/Example-Images/Tortuga-Logo.png)
 
 Includes my expanded [LoadingTips](https://github.com/CatoHeresy/CatoLoadingTips) mod as an optional free bundle. This revises and expands loading screen tips to 450+ entries.
 
