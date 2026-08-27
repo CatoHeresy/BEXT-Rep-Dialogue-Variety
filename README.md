@@ -49,7 +49,7 @@ The BEXT Corporate Representative gets a new portrait.
 The BEXT Corp Rep dialogue now has unique dialogue for different areas of the galaxy map. There are 8 regional variants.
 
 ![Example](/Example-Images/Corporate.png)
-[Example](/Example-Images/Corp-T.png)
+![Example](/Example-Images/Corp-T.png)
 
 
 ### Local Government Forces
