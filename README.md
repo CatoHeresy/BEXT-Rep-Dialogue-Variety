@@ -32,14 +32,15 @@ Every Minor Power faction receives:
 
 
 ### Major Periphery Factions
-Magistracy partial rewrite - Amalia is now sharper and more business-minded.  
-Taurian partial rewrite - Elena will now never be your friend. She also gets a new portrait.  
-Rasalhague full rewrite - Theodore is no longer a Kurita clone and is now a gruff militarist. He gets a new portrait, courtesy of Vipre.
+Magistracy updated - Amalia is now sharper and more business-minded.  
+Taurian updated - Elena stays severely... severe for all dialogue levels. She also gets a new portrait.  
+Rasalhague new lines - Theodore gets his own lines as a gruff militarist. He gets a new portrait, courtesy of Vipre.
 
+![Example](/Example-Images/TaurianII.png)
 ![Example](/Example-Images/Rasalhague.png)
 
 ### Great Houses
-Minimal changes. One or two generic lines revised for each house.
+Minimal changes. One or two generic lines revised for each house for flavor.
 
 ![Example](/Example-Images/Kurita.png)
 
