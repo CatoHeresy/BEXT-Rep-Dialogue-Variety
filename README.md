@@ -39,7 +39,7 @@ Rasalhague full rewrite - Theodore is no longer a Kurita clone and is now a gruf
 ![Example](/Example-Images/Rasalhague.png)
 
 ### Great Houses
-Minimal changes. One or two generic lines updated for each house.
+Minimal changes. One or two generic lines revised for each house.
 
 ![Example](/Example-Images/Kurita.png)
 
@@ -63,7 +63,7 @@ Every faction file has had their enemy lists updated to reflect their interests.
 ## Bonus
 The Tortuga Dominions logo has been fixed to be actually visible.
 
-A new Gametip lore file with 170+ new entires added to existing BEXT loading screen tips. This is optional. It adds background lore from Sarna for each faction to help players get to know them better, along with some mercenary thoughts of the day.
+Includes my expanded [LoadingTips](https://github.com/CatoHeresy/CatoLoadingTips) mod as an optional free bundle. This revises and expands loading screen tips to 450+ entries.
 
 ![Example](/Example-Images/LoadingTip.png)
 
