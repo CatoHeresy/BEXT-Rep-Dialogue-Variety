@@ -46,9 +46,10 @@ Minimal changes. One or two generic lines revised for each house for flavor.
 
 ### Corporate
 The BEXT Corporate Representative gets a new portrait.  
-The BEXT Corp Rep will now give you unique dialogue depending on what map region you are in.
+The BEXT Corp Rep dialogue now has unique dialogue for different areas of the galaxy map. There are 8 regional variants.
 
 ![Example](/Example-Images/Corporate.png)
+[Example](/Example-Images/Corp-T.png)
 
 
 ### Local Government Forces
