@@ -2,7 +2,7 @@
     "ID" : "faction_PiratesExtractor",
     "Name" : "Rim Worlds Pirates",
     "ShortName" : "the pirates",
-    "Description" : "The Rim Worlds Pirates are an organized gang of outlaw salvage teams and mech chop-shops, creating a steady flow of illegal parts to independent worlds along the frontier.",
+    "Description" : "A dysfunctional pirate network of salvage teams across the Rimward frontier.",
     "Demonym" : "pirate",
     "Government" : "gang",
     "Allies" : [

@@ -1,8 +1,8 @@
 {
     "ID" : "faction_PiratesBelt",
-    "Name" : "Belt Scavengers",
+    "Name" : "Belt Pirates",
     "ShortName" : "the scavengers",
-    "Description" : "The asteroid belts of Star's End have a haunting reputation for murderous scav crews who hit isolated vessels and strip them to down empty wrecks, leaving no trace of the crew.",
+    "Description" : "The asteroid belts of Star's End house one of the oldest pirate gangs in the Periphery.",
     "Demonym" : "pirate",
     "Government" : "gang",
     "Allies" : [
@@ -23,22 +23,22 @@
     ],
     "Presence" : 1,
     "ReputationStatements" : [
-        "I argued against hiring outsiders. Don’t make me regret losing that argument.",
-        "You mercs always think you’re smarter than the room. Just follow the salvage plan.",
-        "You're the muscle, just hit the target and keep your mouth shut. Everyone walks away richer.",
-        "Ask too many questions and I pay too little, understand? You run the security, we run the salvage.",
-        "Working in the Belt is dangerous, just ask the captains around here. So many mechs and their crew go missing...",
-        "Our scav crews trust you, and you've got guts. I think we can make a lot of money together.",
-        "Mech-killer, welcome home! What are we scrapping today? You know, me and the boys have had our eyes on this job for a while..."
+        "You've killed some good belter crews outsider. Dangerous, for an inner sphere bootlicker.",
+        "You're the dumb muscle, just hit the target. Keep your damn mouth shut and everyone walks away richer.",
+		"Ask too many questions and we pay too little. We've got a job we need security on, think you can handle that?",
+		"You mercs always think you’re smarter than the room. We've been doing this for centuries, just follow the plan.",
+        "Working in the Belt is dangerous for outsiders, we like to keep it that way.",
+        "You've got guts and dangerous metal. I think we can make a lot of money together.",
+        "Mech-killer, it's always a pleasure. You know, me and the boys have had our eyes on this job for a while..."
     ],
     "MissionSuccessStatements" : [ 
-		"You fought like vacuum-born killers out there. Our scavs are impressed.",
+		"You fought like vacuum-born killers out there. Our scav crews were impressed.",
     ], 
 	"GoodFaithFailureStatements" : [ 
 		"Cargo didn’t all make it home, but neither did the enemy get everything they wanted. Could've gone way worse.",
     ],
 	"BadFaithFailureStatements" : [ 
-		"You left us hanging out there. That's not something us scavs forget.",
+		"You left us hanging out there. That's not something the Belt forgets.",
     ],
 	"DefaultCombatLeaderCastDefId" : "castDef_PirateDefaultCommander",
     "DefaultRepresentativeCastDefId" : "castDef_PiratesBeltDefault",
