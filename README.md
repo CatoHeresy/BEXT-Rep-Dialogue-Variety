@@ -1,9 +1,11 @@
 # BEXT-Rep-Dialogue-Variety
-An expansion for all minor faction dialogue for Battletech Extended Tactics mod (2.0+ only)
+An expansion for all faction dialogue for Battletech Extended Tactics mod (2.0+ only)
 
-Vanilla BEXT uses a single Faction Rep dialogue line for all criminal and pirate factions, along with most minor powers. They also all share the same Local Government portrait. This made me sad.
+Vanilla BEXT severely neglects minor and criminal factions, giving them just a single dialogue line which never changes. They also all share the same portrait. This made me sad.
 
-This project gives every faction a unique representative with a full dialogue system. Here is an example for the Mafia:
+This project gives every single faction a unique rep portrait and a full dialogue system, which will change based on your relationship with them. Here is an example for the Mafia:
+
+![Example](/Example-Images/Mafia-After.jpg)
 
 ![Example](/Example-Images/Criminal-Mafia.png)
 
@@ -49,7 +51,6 @@ The BEXT Corporate Representative gets a new portrait.
 The BEXT Corp Rep dialogue now has unique dialogue for different areas of the galaxy map. There are 8 regional variants.
 
 ![Example](/Example-Images/Corporate.png)
-![Example](/Example-Images/Corp-T.png)
 
 
 ### Local Government Forces
@@ -58,8 +59,16 @@ The Local Government Representative gets a new portrait (credit to: Portrait Ove
 ![Example](/Example-Images/Locals.png)
 
 
+### Expanded Reputation Screen
+The Reputation screen now tracks more minor periphery powers, such as Circinus Federation.
+
+![Example](/Example-Images/NewRepScreen.jpg)
+
+
 ### Enemy Lists Update
 Every faction file has had their enemy lists updated to reflect their interests. This is mostly for flavor but may also help spawn more reasonable local mission targets.
+
+More minor factions and criminal gangs are allowed to spawn missions and also show up as 3rd party interlopers in missions.
 
 
 ## Bonus
@@ -67,7 +76,7 @@ Inverts the Tortuga Dominions logo color from black to white to be actually visi
 
 ![Example](/Example-Images/Tortuga-Logo.png)
 
-Includes my expanded [LoadingTips](https://github.com/CatoHeresy/CatoLoadingTips) mod as an optional free bundle. This revises and expands loading screen tips to 450+ entries.
+Includes my expanded [LoadingTips](https://github.com/CatoHeresy/CatoLoadingTips) mod as an optional free bundle. This revises and expands loading screen tips to 440+ entries.
 
 ![Example](/Example-Images/LoadingTip.png)
 
@@ -81,10 +90,6 @@ If you do not want the expanded GameTips file, do not copy the contents of: Mods
 
 
 ## Known Issues
-Due to how BEXT Timeline spawns missions, sometimes old dialogue for the Great Houses are used instead.  
-
-faction_newcolonyregion is never called on, it never generates missions.  
-
-Lothian League & Marian Hegemony are currently not implemented in BEXT, despite having faction files for them.
+Due to how BEXT Timeline spawns missions, sometimes old dialogue for the Great Houses are used instead.  This is mostly noticable on Steiner.
 
 
