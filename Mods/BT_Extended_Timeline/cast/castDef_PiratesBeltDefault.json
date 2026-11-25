@@ -1,10 +1,10 @@
 {
    "id" : "castDef_PiratesBeltDefault",
    "internalName" : "PiratesBeltDefault",
-   "firstName" : "Flake",
+   "firstName" : "Crash",
    "lastName" : "",
    "callsign" : null,
-   "rank" : "Belt Scavengers",
+   "rank" : "Belt Pirate",
    "showRank" : true,
    "gender" : "Male",
    "factionID" : "PiratesBelt",
